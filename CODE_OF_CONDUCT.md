@@ -2,11 +2,11 @@
 
 ## 1. Purpose
 
-A primary goal of Flat Force Roleplay is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of FlatForce Network is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
-We invite all those who participate in Flat Force Roleplay to help us create safe and positive experiences for everyone.
+We invite all those who participate in FlatForce Network to help us create safe and positive experiences for everyone.
 
 ## 2. Open Source Citizenship
 
@@ -55,15 +55,11 @@ If a community member engages in unacceptable behavior, the community organizers
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. support@flatforcenetwork.com.
 
-[Reporting Guidelines](http://flatforcenetwork.com/coc.html)
-
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
 ## 7. Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify Rolexx Gaming with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
-
-[Policy](http://flatforcenetwork.com/policy.html)
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify RolexxGaming with a concise description of your grievance.
 
 ## 8. Scope
 
